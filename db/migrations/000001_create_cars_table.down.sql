@@ -1,0 +1,2 @@
+DROP TYPE IF EXISTS car_category;
+DROP TABLE IF EXISTS cars;
